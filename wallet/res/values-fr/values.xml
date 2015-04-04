@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+
+	<string-array name="preferences_precision_labels">
+		<item>HTML, 8 décimales</item>
+		<item>mHTML, 2 décimales</item>
+		<item>µHTML, 0 décimale</item>
+	</string-array>
+
+</resources>

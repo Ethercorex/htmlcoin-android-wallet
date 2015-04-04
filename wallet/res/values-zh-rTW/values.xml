@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+
+	<string-array name="preferences_precision_labels">
+		<item>HTML, 8位數</item>
+		<item>mHTML, 2位數</item>
+		<item>µHTML, 0位數</item>
+	</string-array>
+
+</resources>
